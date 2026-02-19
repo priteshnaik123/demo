@@ -42,7 +42,7 @@
     </build>
     <distributionManagement>
     <repository>
-        <id>nexus releases</id>
+        <id>nexus-releases</id>
         <url>http://184.73.148.149:8081/repository/java-packages/</url>
     </repository>
 </distributionManagement>
